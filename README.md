@@ -19,6 +19,7 @@ To examine the functionalities of the VarNet library, see the acompanying
 Operater files.
 
 The code is fully functional with the following module versions:  
+    - python: 3.6.7
     - tensorflow: 1.10.0  
     - numpy: 1.16.4  
     - scipy: 1.2.1  
