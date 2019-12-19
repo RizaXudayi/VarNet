@@ -13,7 +13,7 @@ For a full copyright statement see the accompanying LICENSE.md file.
 For theoretical derivations as well as numerical experiment results, see:  
 Reza Khodayi-mehr and Michael M Zavlanos. VarNet: Variational neural networks
 for the solution of partial differential equations, 2019. 
-https://arxiv.org/pdf/1912.07443.pdf
+[Online]. Available: https://arxiv.org/pdf/1912.07443.pdf
 
 To examine the functionalities of the VarNet library, see the acompanying 
 Operater files.
