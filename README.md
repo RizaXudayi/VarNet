@@ -2,7 +2,7 @@
 Variational Neural Networks for the Solution of Partial Differential Equations
 
 Authors: Reza Khodayi-mehr and Michael M Zavlanos  
-reza.khodayi.mehr@duke.edu  
+reza.khodayi.mehr(at)duke.edu  
 http://people.duke.edu/~rk157/  
 Department of Mechanical Engineering and Materials Science,
 Duke University, Durham, NC 27708, USA.  
